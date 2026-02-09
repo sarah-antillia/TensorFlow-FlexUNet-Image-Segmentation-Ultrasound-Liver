@@ -256,8 +256,8 @@ Evaluation console output:<br>
 The loss (categorical_crossentropy) to this Ultrasound-Liver/test was very low, and dice_coef_multiclass very high as shown below.
 <br>
 <pre>
-categorical_crossentropy,0.0059
-dice_coef_multiclass,0.9971
+categorical_crossentropy,0.007
+dice_coef_multiclass,0.9964
 </pre>
 <br>
 <h3>5 Inference</h3>
